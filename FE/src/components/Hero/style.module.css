@@ -1,0 +1,9 @@
+.container{
+    background-image: url("https://preview.colorlib.com/theme/vegefoods/images/bg_2.jpg");
+    width: 100%;
+    height: 100vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
